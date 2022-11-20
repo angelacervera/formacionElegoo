@@ -1,2 +1,4 @@
-# formacionElegoo
-Este proyecto lo utilizo para aprender a programar Elegoo
+# Proyecto Angela Cervera de Formación Elegoo
+## Introducción
+
+## Pasos para compilar
